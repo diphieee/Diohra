@@ -1,1 +1,4 @@
 # Diohra
+
+# Characters
+- Isa (hoofdkarakter)
